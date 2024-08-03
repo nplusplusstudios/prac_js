@@ -1,0 +1,1 @@
+//main.js will be the JavaScript code for the program
